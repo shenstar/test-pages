@@ -1,0 +1,2 @@
+(window["webpackJsonp"]=window["webpackJsonp"]||[]).push([["about"],{f820:function(e,t,n){"use strict";n.r(t);var u=n("7a23"),c={class:"about"};function r(e,t,n,r,a,b){return Object(u["p"])(),Object(u["d"])("div",c,[Object(u["g"])("h1",null,Object(u["x"])(r.menu),1)])}var a=n("6c02"),b={setup:function(){var e=Object(a["c"])(),t=Object(u["u"])(e.params.userId);return{menu:t}}};b.render=r;t["default"]=b}}]);
+//# sourceMappingURL=about.afaf7777.js.map
